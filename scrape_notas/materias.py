@@ -18,7 +18,7 @@ ING_ECONOMICA = {
     "course_id": "13198"
 }
 
-DISEÑO_DE_SISTEMAS = {
+DISENO_DE_SISTEMAS = {
     "course_name": "Analisis y Diseño de Sistemas",
     "course_id": "12312"
 }
